@@ -171,9 +171,11 @@ color: black;
 
 ~~~
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-28 211751.png>)
-![Alt text](<Screenshot 2023-12-28 211804.png>)
-![Alt text](<Screenshot 2023-12-28 211819.png>)
+![Screenshot 2023-12-28 211751](https://github.com/THARUNDT/Figma/assets/144871537/ec262290-3ab1-469b-bd68-21db0f41efd7)
+![Screenshot 2023-12-28 211804](https://github.com/THARUNDT/Figma/assets/144871537/4798a383-538c-4aa2-bbcc-753d009f8804)
+![Screenshot 2023-12-28 211819](https://github.com/THARUNDT/Figma/assets/144871537/6e70448d-6bfc-4964-befa-360af7dcc610)
+
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
